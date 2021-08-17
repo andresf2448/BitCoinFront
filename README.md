@@ -1,1 +1,1 @@
-# BitCoinFront
+# AppReact-ruby
